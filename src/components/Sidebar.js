@@ -10,7 +10,6 @@ class Sidebar extends Component {
           </div>
           <div>Ronald</div>
         </div>
-
         <div className="user-channels"></div>
       </div>
     );
